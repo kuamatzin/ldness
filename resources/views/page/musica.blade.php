@@ -15,7 +15,7 @@ class="background-beneficios background-class"
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
-            <br><br><br><br><br><br><br>
+            <br><br><br><br><br>
             <h1 class="text-center subtitulo">Explora nueva música, checa temas y géneros</h1>
         </div>
     </div>
