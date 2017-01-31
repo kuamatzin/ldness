@@ -37,7 +37,7 @@
                         </ul>
                     </div>
                 </nav>
-                <div id="nombre-seccion" class="nombre-mobile-seccion">
+                <div id="nombre-seccion" class="nombre-seccion">
                     @yield('name-section')
                 </div>
             </div>
