@@ -11,7 +11,7 @@
         <link href="/css/app.css" rel="stylesheet">
     </head>
     <body>
-        <div @yield('background-class')>
+        <div id="background" @yield('background-class')>
 
             <nav class="navbar navbar-default" role="navigation">
                 <div class="container-fluid">
@@ -37,7 +37,7 @@
                         </ul>
                     </div>
                 </nav>
-                <div class="nombre-seccion">
+                <div id="" class="nombre-seccion">
                     @yield('name-section')
                 </div>
             </div>
@@ -82,6 +82,8 @@
             <script>
                 if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
                     $('#logo_loudness').hide();
+                    $('#background').removeClass( "background-class").addClass('background-mobile-class');
+                    $('#nombre-seccion').removeClass( "nombre-seccion").addClass('nombre-mobile-seccion');
                 }
             </script>
         </body>
