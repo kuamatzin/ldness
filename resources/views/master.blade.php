@@ -24,7 +24,7 @@
                         <span class="icon-bar"></span>
                         </button>
                         <a class="navbar-brand" href="/">
-                            <img src="/img/logo.png" alt="" class="img-responsive" width="150px" style="margin-left: 70px;">
+                            <img src="/img/logo.png" alt="" class="img-responsive" width="150px" style="margin-left: 70px;" id="logo_loudness">
                         </a>
                     </div>
                     
@@ -79,5 +79,10 @@
             </footer>
             
             <script src="/js/app.js"></script>
+            <script>
+                if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+                    $('#logo_loudness').hide();
+                }
+            </script>
         </body>
     </html>
