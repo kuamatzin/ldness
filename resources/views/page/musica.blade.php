@@ -1,6 +1,6 @@
 @extends('master')
 @section('background-class')
-class="background-beneficios background-class"
+class="background-musica background-class"
 @endsection
 @section('name-section')
 <div class="row">
@@ -28,4 +28,15 @@ class="background-beneficios background-class"
         </div>
     </div>
 </div>
+@endsection
+
+
+@section('background-footer-1')
+footer-background-musica
+@endsection
+@section('background-footer-2')
+footer-background-musica
+@endsection
+@section('background-footer-3')
+footer-background-musica
 @endsection

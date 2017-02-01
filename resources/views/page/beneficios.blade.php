@@ -72,3 +72,18 @@ class="background-beneficios background-class"
     </div>
 </div>
 @endsection
+
+
+@section('before-footer')
+<div class="before-footer"></div>
+@endsection
+
+@section('background-footer-1')
+footer-background-beneficios
+@endsection
+@section('background-footer-2')
+footer-background-beneficios
+@endsection
+@section('background-footer-3')
+footer-background-beneficios
+@endsection

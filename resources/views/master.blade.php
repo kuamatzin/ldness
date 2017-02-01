@@ -43,9 +43,9 @@
             </div>
             @yield('content')
             @yield('before-footer')
-            <footer class="footer" style="background-color: #216C9D">
-                <div class="container" style="background-color: #216C9D">
-                    <div class="row" style="background-color: #216C9D">
+            <footer class="footer @yield('background-footer-1')">
+                <div class="container @yield('background-footer-2')">
+                    <div class="row @yield('background-footer-3')">
                         <div class="col-md-2 col-md-offset-1 logo">
                             <div>
                                 <img src="img/footer.png" alt="" class="img-responsive center-block">

@@ -13908,6 +13908,10 @@ body {
 }
 
 .background-beneficios {
+  background-image: url("/img/musica.png");
+}
+
+.background-musica {
   background-image: url("/img/beneficios.png");
 }
 
@@ -13959,7 +13963,7 @@ body {
 .circle {
   background: white;
   border-radius: 50%;
-  border-color: #216C9D;
+  border-color: #D82F70;
   border-style: solid;
   color: black;
   display: table;
@@ -14049,6 +14053,18 @@ body {
   border-color: #007299;
   color: #007299;
   box-shadow: none;
+}
+
+.footer-background-aplicaciones {
+  background-color: #A59D41;
+}
+
+.footer-background-beneficios {
+  background-color: #A66EA3;
+}
+
+.footer-background-musica {
+  background-color: #5EAD7D;
 }
 
 /*# sourceMappingURL=app.css.map */

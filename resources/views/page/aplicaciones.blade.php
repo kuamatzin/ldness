@@ -71,3 +71,13 @@ class="background-aplicaciones background-class"
 @section('before-footer')
 <div class="before-footer"></div>
 @endsection
+
+@section('background-footer-1')
+footer-background-aplicaciones
+@endsection
+@section('background-footer-2')
+footer-background-aplicaciones
+@endsection
+@section('background-footer-3')
+footer-background-aplicaciones
+@endsection
