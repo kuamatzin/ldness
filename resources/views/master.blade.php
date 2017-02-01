@@ -24,7 +24,7 @@
                         <span class="icon-bar"></span>
                         </button>
                         <a class="navbar-brand" href="/">
-                            <img src="/img/logo.png" alt="" class="img-responsive" width="150px" style="margin-left: 70px;" id="logo_loudness">
+                            <img src="/img/footer.png" alt="" class="img-responsive" width="150px" style="margin-left: 70px;" id="logo_loudness">
                         </a>
                     </div>
                     
