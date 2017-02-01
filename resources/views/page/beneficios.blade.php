@@ -14,7 +14,7 @@ class="background-beneficios background-class"
 @section('content')
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2 nueva">
+        <div class="col-md-6 col-md-offset-3 nueva">
             <h1 class="text-center subtitulo">Una nueva forma de escuchar música</h1>
         </div>
     </div>
@@ -34,7 +34,7 @@ class="background-beneficios background-class"
     <div class="row">
         <div class="col-md-4 col-md-offset-4 menu-cont">
             <h1 class="text-center">Menú del día</h1>
-            <h2 class="text-center">Descubre todos los días nuestro menú de bandas y canciones del día</h2>
+            <h2 class="text-center"><strong>Descubre todos los días nuestro menú de bandas y canciones del día</strong></h2>
         </div>
     </div>
 </div>

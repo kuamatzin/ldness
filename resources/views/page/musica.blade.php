@@ -14,7 +14,7 @@ class="background-musica background-class"
 @section('content')
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-6 col-md-offset-3">
             <br><br><br><br><br>
             <h1 class="text-center subtitulo">Explora nueva música, checa temas y géneros</h1>
         </div>

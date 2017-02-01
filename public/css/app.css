@@ -13774,6 +13774,20 @@ button.close {
   animation-name: slideOutUp;
 }
 
+@font-face {
+  font-family: 'baron_neue';
+  src: url("/fonts/nice/baron_neue-webfont.woff2") format("woff2"), url("/fonts/nice/baron_neue-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'bebas_neueregular';
+  src: url("/fonts/regular/bebas_neue_regular-webfont.woff2") format("woff2"), url("/fonts/regular/bebas_neue_regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
@@ -13783,6 +13797,7 @@ html {
 
 body {
   /* Margin bottom by footer height */
+  font-family: 'Helvetica';
   margin-bottom: 350px;
 }
 
@@ -13824,17 +13839,19 @@ body {
 }
 
 .nombre-seccion {
+  font-family: 'bebas_neueregular';
   padding-top: 500px;
 }
 
 .nombre-seccion h1 {
   color: white;
-  font-size: 3.2em;
+  font-size: 4.2em;
   text-transform: uppercase;
   padding-bottom: 400px;
 }
 
 .nombre-mobile-seccion {
+  font-family: 'bebas_neueregular';
   padding-top: 100px;
 }
 
@@ -13859,9 +13876,10 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a {
+  font-family: 'bebas_neueregular';
   color: white !important;
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: 2.1em;
 }
 
 .navbar-nav > li {
@@ -13874,6 +13892,7 @@ body {
 }
 
 .seccion-app div h3 {
+  font-family: 'baron_neue';
   text-transform: uppercase;
   color: #343434;
 }
@@ -13952,12 +13971,17 @@ body {
 }
 
 .subtitulo {
+  font-family: 'baron_neue';
   text-transform: uppercase;
 }
 
 .nueva {
   padding-top: 200px;
   padding-bottom: 200px;
+}
+
+.nueva h1 {
+  font-family: 'baron_neue';
 }
 
 .circle {
@@ -14009,6 +14033,7 @@ body {
 }
 
 .menu-cont h1 {
+  font-family: 'baron_neue';
   font-size: 5.3em;
   color: white;
   text-transform: uppercase;

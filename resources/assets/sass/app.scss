@@ -14,6 +14,23 @@
 //Animate css
 @import "node_modules/animate.css/animate";
 
+@font-face {
+    font-family: 'baron_neue';
+    src: url('/fonts/nice/baron_neue-webfont.woff2') format('woff2'),
+         url('/fonts/nice/baron_neue-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('/fonts/regular/bebas_neue_regular-webfont.woff2') format('woff2'),
+         url('/fonts/regular/bebas_neue_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
@@ -23,12 +40,14 @@ html {
 
 body {
   /* Margin bottom by footer height */
+  font-family: 'Helvetica';
   margin-bottom: 350px;
 }
 
 .before-footer {
   height: 150px;
 }
+
 
 .footer {
   .logo {
@@ -61,16 +80,18 @@ body {
 }
 
 .nombre-seccion {
+  font-family: 'bebas_neueregular';
   padding-top: 500px;
   h1 {
     color: white;
-    font-size: 3.2em;
+    font-size: 4.2em;
     text-transform: uppercase;
     padding-bottom: 400px;
   }
 }
 
 .nombre-mobile-seccion {
+  font-family: 'bebas_neueregular';
   padding-top: 100px;
   h1 {
     color: white;
@@ -93,9 +114,10 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a {
+  font-family: 'bebas_neueregular';
   color: white !important;
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: 2.1em;
 }
 
 .navbar-nav > li {
@@ -107,6 +129,7 @@ body {
         margin-left: 50px;
         margin-right: 50px;
         h3 {
+            font-family: 'baron_neue';
             text-transform: uppercase;
             color: #343434;
         }
@@ -184,12 +207,16 @@ body {
 }
 
 .subtitulo {
+  font-family: 'baron_neue';
   text-transform: uppercase;
 }
 
 .nueva {
   padding-top: 200px;
   padding-bottom: 200px;
+  h1 {
+    font-family: 'baron_neue';
+  }
 }
 
 .circle {
@@ -241,6 +268,7 @@ body {
   padding-top: 450px;
   padding-bottom: 300px;
   h1 {
+    font-family: 'baron_neue';
     font-size: 5.3em;
     color: white;
     text-transform: uppercase;
