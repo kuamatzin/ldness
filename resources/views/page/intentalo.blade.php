@@ -50,10 +50,6 @@ class="background-intentalo background-class"
 </div>
 @endsection
 
-@section('before-footer')
-<div class="before-footer"></div>
-@endsection
-
 @section('background-footer-1')
 footer-background-escucha
 @endsection
