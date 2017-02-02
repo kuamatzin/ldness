@@ -14017,7 +14017,14 @@ body {
 
 .intenta {
   background-image: url("/img/intenta.png");
-  background-size: 100% 127%;
+  background-size: 100% 128%;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.intenta-mobile {
+  background-image: url("/img/intenta.png");
+  background-size: 200% 128%;
   background-position: center top;
   background-repeat: no-repeat;
 }

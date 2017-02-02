@@ -21,7 +21,7 @@ class="background-musica background-class"
     </div>
 </div>
 <img src="/img/discos.png" alt="" class="img-responsive">
-<div class="intenta">
+<div class="intenta" id="intenta-div">
     <div class="row">
         <div class="col-md-4 col-md-offset-4 intenta-cont">
             <button type="button" class="btn btn-primary btn-lg outline center-block">INTÉNTALO YA</button>
@@ -39,4 +39,12 @@ footer-background-musica
 @endsection
 @section('background-footer-3')
 footer-background-musica
+@endsection
+
+@section('scripts')
+<script>
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        $('#intenta-div').removeClass( "intenta").addClass('intenta-mobile');
+    }
+</script>
 @endsection

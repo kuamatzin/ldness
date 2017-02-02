@@ -86,5 +86,6 @@
                     $('#nombre-seccion').removeClass( "nombre-seccion").addClass('nombre-mobile-seccion');
                 }
             </script>
+            @yield('scripts')
         </body>
     </html>

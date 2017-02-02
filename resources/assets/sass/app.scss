@@ -251,10 +251,20 @@ body {
 
 .intenta {
   background-image: url('/img/intenta.png');
-  -webkit-background-size: 100% 127%;
-  -moz-background-size: 100% 127%;
-  -o-background-size: 100% 127%;
-  background-size: 100% 127%;
+  -webkit-background-size: 100% 128%;
+  -moz-background-size: 100% 128%;
+  -o-background-size: 100% 128%;
+  background-size: 100% 128%;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.intenta-mobile {
+  background-image: url("/img/intenta.png");
+  -webkit-background-size: 200% 128%;
+  -moz-background-size: 200% 128%;
+  -o-background-size: 200% 128%;
+  background-size: 200% 128%;
   background-position: center top;
   background-repeat: no-repeat;
 }
