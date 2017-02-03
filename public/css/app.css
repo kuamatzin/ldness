@@ -14015,6 +14015,37 @@ body {
   background-repeat: no-repeat;
 }
 
+.timing {
+  background-image: url("/img/timing.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.timing-cont {
+  padding-top: 500px;
+  padding-bottom: 250px;
+}
+
+.timing-cont h1 {
+  text-transform: uppercase;
+  color: white;
+  font-size: 6em;
+  font-weight: bold;
+  font-family: 'baron_neue';
+}
+
+.timgin-div {
+  margin-top: 200px;
+  padding: 50px;
+  border-style: solid;
+  border-color: #86BD4A;
+}
+
+.timgin-div p {
+  font-size: 1.2em;
+}
+
 .intenta {
   background-image: url("/img/intenta.png");
   background-size: 100% 128%;
