@@ -34,6 +34,7 @@
                             <li><a href="/beneficios">Beneficios</a></li>
                             <li><a href="/musica">Música</a></li>
                             <li><a href="/escucha">Escucha</a></li>
+                            <li><a href="/musico">¿Eres músico?</a></li>
                         </ul>
                     </div>
                 </nav>

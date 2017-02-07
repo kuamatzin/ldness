@@ -6,7 +6,7 @@ class="background-musica background-class"
 <div class="row">
     <div class="col-md-8 col-md-offset-2">
         <h1 class="text-center animated bounceInDown">
-            Música
+            Vende tu música en Loudness
         </h1>
     </div>
 </div>
@@ -59,7 +59,9 @@ class="background-musica background-class"
 <div class="intenta" id="intenta-div">
     <div class="row">
         <div class="col-md-4 col-md-offset-4 intenta-cont">
-            <button type="button" class="btn btn-primary btn-lg outline center-block">INTÉNTALO YA</button>
+            <a href="/registro">
+                <button type="button" class="btn btn-primary btn-lg outline center-block">INTÉNTALO YA</button>
+            </a>
         </div>
     </div>
 </div>

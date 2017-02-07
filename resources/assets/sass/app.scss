@@ -12,6 +12,9 @@
 @import "node_modules/font-awesome/scss/font-awesome";
 
 //Animate css
+@import "node_modules/sweetalert/dev/sweetalert";
+
+//Animate css
 @import "node_modules/animate.css/animate";
 
 @font-face {
@@ -81,7 +84,7 @@ body {
 
 .nombre-seccion {
   font-family: 'bebas_neueregular';
-  padding-top: 500px;
+  padding-top: 400px;
   h1 {
     color: white;
     font-size: 4.2em;
@@ -170,6 +173,14 @@ body {
 
 .background-musica {
   background-image: url('/img/beneficios.png');
+}
+
+.background-musico {
+  background-image: url('/img/musico.png');
+}
+
+.background-registro {
+  background-image: url('/img/registro.png');
 }
 
 .descubre {
@@ -350,6 +361,28 @@ body {
   border-color: #33a6cc;
 }
 .btn-primary.outline:active, .btn-primary.outline.active {
+  border-color: #007299;
+  color: #007299;
+  box-shadow: none;
+}
+
+
+.btn.outline-sm {
+  background: none;
+}
+
+.btn-primary.outline-sm {
+  border: 5px solid white;
+  border-radius: 0px !important;
+  font-size: 1em;
+  color: white;
+}
+
+.btn-primary.outline-sm:hover, .btn-primary.outline-sm:focus, .btn-primary.outline-sm:active, .btn-primary.outline-sm.active, .open > .dropdown-toggle.btn-primary {
+  color: #33a6cc;
+  border-color: #33a6cc;
+}
+.btn-primary.outline-sm:active, .btn-primary.outline-sm.active {
   border-color: #007299;
   color: #007299;
   box-shadow: none;
