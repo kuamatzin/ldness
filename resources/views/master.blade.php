@@ -49,7 +49,7 @@
                     <div class="row @yield('background-footer-3')">
                         <div class="col-md-2 col-md-offset-1 logo">
                             <div>
-                                <img src="img/footer.png" alt="" class="img-responsive center-block">
+                                <img src="img/footer.png" alt="" class="img-responsive center-block" id="logo-footer">
                             </div>
                         </div>
                         <div class="col-md-2 seccion-footer">
@@ -85,6 +85,7 @@
                     $('#logo_loudness').hide();
                     $('#background').removeClass( "background-class").addClass('background-mobile-class');
                     $('#nombre-seccion').removeClass( "nombre-seccion").addClass('nombre-mobile-seccion');
+                    $('#logo-footer').width(70)
                 }
             </script>
             @yield('scripts')
