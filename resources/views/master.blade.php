@@ -85,7 +85,7 @@
                     $('#logo_loudness').hide();
                     $('#background').removeClass( "background-class").addClass('background-mobile-class');
                     $('#nombre-seccion').removeClass( "nombre-seccion").addClass('nombre-mobile-seccion');
-                    $('#logo-footer').width(70)
+                    $('#logo-footer').width(150)
                 }
             </script>
             @yield('scripts')
