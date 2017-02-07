@@ -35,7 +35,7 @@ class="background-registro background-class"
                 <input type="email" name="email" id="inputEmail" class="form-control" required="required" placeholder="juan@gmail.com">
             </div>
 
-            <button type="submit" class="btn btn-primary center-block">Unirme</button>
+            <button type="submit" class="btn btn-lg btn-primary center-block">Unirme</button>
         </form>
     </div>
 </div>
@@ -43,6 +43,16 @@ class="background-registro background-class"
 
 @section('before-footer')
 <div class="before-footer"></div>
+@endsection
+
+@section('background-footer-1')
+footer-background-registro
+@endsection
+@section('background-footer-2')
+footer-background-registro
+@endsection
+@section('background-footer-3')
+footer-background-registro
 @endsection
 
 @section('scripts')
