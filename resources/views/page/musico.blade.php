@@ -76,6 +76,16 @@ class="background-musico background-class"
 <div class="before-footer"></div>
 @endsection
 
+@section('background-footer-1')
+footer-background-musico
+@endsection
+@section('background-footer-2')
+footer-background-musico
+@endsection
+@section('background-footer-3')
+footer-background-musico
+@endsection
+
 @section('scripts')
 
 @endsection
