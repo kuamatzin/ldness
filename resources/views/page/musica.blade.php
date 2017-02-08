@@ -58,7 +58,7 @@ class="background-musica background-class"
 </div>
 
 
-<div class="intenta" id="intenta-div">
+<div class="intenta" id="intentalo-div">
     <div class="row">
         <div class="col-md-4 col-md-offset-4 intenta-cont">
             <a href="/registro">
@@ -83,7 +83,7 @@ footer-background-musica
 @section('scripts')
 <script>
     if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-        $('#intenta-div').removeClass( "intenta").addClass('intenta-mobile');
+        $('#intentalo-div').removeClass( "intenta").addClass('intenta-mobile');
     }
 </script>
 @endsection
