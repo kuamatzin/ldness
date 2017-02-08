@@ -3,9 +3,11 @@
 class="background-aplicaciones background-class"
 @endsection
 @section('name-section')
-<h1 class="text-center animated bounceInDown">
-    Aplicaciones y Dispositivos            
-</h1>
+<div id="nombre-seccion" class="nombre-seccion">
+    <h1 class="text-center animated bounceInDown">
+        Aplicaciones y Dispositivos            
+    </h1>
+</div>
 @endsection
 @section('content')
 <div class="container">

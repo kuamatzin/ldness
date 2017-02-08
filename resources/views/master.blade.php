@@ -37,9 +37,7 @@
                         </ul>
                     </div>
                 </nav>
-                <div id="nombre-seccion" class="nombre-seccion">
-                    @yield('name-section')
-                </div>
+                @yield('name-section')
             </div>
             @yield('content')
             @yield('before-footer')

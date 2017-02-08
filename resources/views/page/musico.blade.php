@@ -4,15 +4,17 @@
 class="background-musico background-class"
 @endsection
 @section('name-section')
-<div class="row">
-    <div class="col-md-8 col-md-offset-2">
-        <h1 class="text-center animated bounceInDown">
-            Vende tu música
-            <br><br>
-            <a href="/registro">
-                <button type="button" class="btn btn-primary btn-lg outline-sm center-block" style="font-size: 0.7em">INTÉNTALO YA</button>
-            </a>
-        </h1>
+<div id="nombre-seccion" class="nombre-seccion-dos">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <h1 class="text-center animated bounceInDown">
+                Vende tu música
+                <br><br>
+                <a href="/registro">
+                    <button type="button" class="btn btn-primary btn-lg outline-sm center-block" style="font-size: 0.7em">INTÉNTALO YA</button>
+                </a>
+            </h1>
+        </div>
     </div>
 </div>
 @endsection

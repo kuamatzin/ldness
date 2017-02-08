@@ -3,11 +3,13 @@
 class="background-beneficios background-class"
 @endsection
 @section('name-section')
-<div class="row">
-    <div class="col-md-8 col-md-offset-2">
-        <h1 class="text-center animated bounceInDown">
-            Beneficios
-        </h1>
+<div id="nombre-seccion" class="nombre-seccion">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <h1 class="text-center animated bounceInDown">
+                Beneficios
+            </h1>
+        </div>
     </div>
 </div>
 @endsection

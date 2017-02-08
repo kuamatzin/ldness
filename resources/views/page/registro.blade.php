@@ -4,11 +4,13 @@
 class="background-registro background-class"
 @endsection
 @section('name-section')
-<div class="row">
-    <div class="col-md-8 col-md-offset-2">
-        <h1 class="text-center animated bounceInDown">
-            ¡Loudness ya casi sale del horno!
-        </h1>
+<div id="nombre-seccion" class="nombre-seccion">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <h1 class="text-center animated bounceInDown">
+                ¡Loudness ya casi sale del horno!
+            </h1>
+        </div>
     </div>
 </div>
 @endsection
