@@ -89,5 +89,7 @@ footer-background-musico
 @endsection
 
 @section('scripts')
-
+<script>
+    $('#nombre-seccion').removeClass( "nombre-seccion-dos").addClass('nombre-mobile-seccion-dos');
+</script>
 @endsection
