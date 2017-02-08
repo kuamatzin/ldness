@@ -8,7 +8,7 @@ class="background-musico background-class"
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <h1 class="text-center animated bounceInDown">
-                Vende tu música
+                Vende tu músicas
                 <br><br>
                 <a href="/registro">
                     <button type="button" class="btn btn-primary btn-lg outline-sm center-block" style="font-size: 0.7em">INTÉNTALO YA</button>
@@ -90,6 +90,8 @@ footer-background-musico
 
 @section('scripts')
 <script>
-    $('#nombre-seccion').removeClass( "nombre-seccion-dos").addClass('nombre-mobile-seccion-dos');
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        $('#nombre-seccion').removeClass( "nombre-seccion-dos").addClass('nombre-mobile-seccion-dos');
+    }
 </script>
 @endsection
