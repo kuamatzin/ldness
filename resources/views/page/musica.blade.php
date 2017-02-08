@@ -6,7 +6,7 @@ class="background-musica background-class"
 <div class="row">
     <div class="col-md-8 col-md-offset-2">
         <h1 class="text-center animated bounceInDown">
-            Vende tu música en Loudness
+            Música
         </h1>
     </div>
 </div>
