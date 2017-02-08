@@ -91,7 +91,7 @@ footer-background-musico
 @section('scripts')
 <script>
     if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-        $('#background').removeClass( "background-mobile-class").addClass('.background-mobile-dos-class');
+        $('#background').removeClass( "background-mobile-class").addClass('background-mobile-dos-class');
         $('#nombre-seccion').removeClass( "nombre-seccion-dos").addClass('nombre-mobile-seccion-dos');
     }
 </script>
