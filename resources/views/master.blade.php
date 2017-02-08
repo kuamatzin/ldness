@@ -12,7 +12,6 @@
     </head>
     <body>
         <div id="background" @yield('background-class')>
-
             <nav class="navbar navbar-default" role="navigation">
                 <div class="container-fluid">
                     <!-- Brand and toggle get grouped for better mobile display -->
@@ -24,7 +23,7 @@
                         <span class="icon-bar"></span>
                         </button>
                         <a class="navbar-brand" href="/">
-                            <img src="/img/footer.png" alt="" class="img-responsive" width="150px" style="margin-left: 70px;" id="logo_loudness">
+                            <img src="/img/footer.png" id="logo_loudness">
                         </a>
                     </div>
                     
@@ -82,7 +81,7 @@
             <script src="/js/app.js"></script>
             <script>
                 if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-                    $('#logo_loudness').hide();
+                    //$('#logo_loudness').hide();
                     $('#background').removeClass( "background-class").addClass('background-mobile-class');
                     $('#nombre-seccion').removeClass( "nombre-seccion").addClass('nombre-mobile-seccion');
                     $('#logo-footer').width(150)

@@ -14854,11 +14854,22 @@ body {
   font-family: 'bebas_neueregular';
   color: white !important;
   text-transform: uppercase;
-  font-size: 2.1em;
+  font-size: 1.7em;
 }
 
 .navbar-nav > li {
-  padding-right: 70px;
+  padding-right: 40px;
+}
+
+.navbar-brand {
+  padding: 0px;
+  height: 160px;
+}
+
+.navbar-brand > img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
 }
 
 .seccion-app div {
