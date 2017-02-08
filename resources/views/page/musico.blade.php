@@ -8,7 +8,7 @@ class="background-musico background-class"
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <h1 class="text-center animated bounceInDown">
-                Vende tu músicas
+                Vende tu música
                 <br><br>
                 <a href="/registro">
                     <button type="button" class="btn btn-primary btn-lg outline-sm center-block" style="font-size: 0.7em">INTÉNTALO YA</button>
