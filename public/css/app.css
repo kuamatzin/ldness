@@ -14839,14 +14839,14 @@ body {
 
 .nombre-mobile-seccion {
   font-family: 'bebas_neueregular';
-  padding-top: 30px;
+  padding-top: 5px;
 }
 
 .nombre-mobile-seccion h1 {
   color: white;
   font-size: 3.2em;
   text-transform: uppercase;
-  padding-bottom: 1px;
+  padding-bottom: 5px;
 }
 
 .nombre-mobile-seccion .escucha {
