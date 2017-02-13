@@ -29,11 +29,11 @@
                     
                     <div class="collapse navbar-collapse navbar-ex1-collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li class="active"><a href="/">Aplicaciones y Dispositivos</a></li>
+                            <li><a href="/">Loudness</a></li>
                             <li><a href="/beneficios">Beneficios</a></li>
                             <li><a href="/musica">Música</a></li>
-                            <li><a href="/escucha">Escucha</a></li>
                             <li><a href="/musico">¿Eres músico?</a></li>
+                            <li class="active"><a href="/aplicaciones">Aplicaciones y Dispositivos</a></li>
                         </ul>
                     </div>
                 </nav>

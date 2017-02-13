@@ -14815,14 +14815,14 @@ body {
 
 .nombre-seccion {
   font-family: 'bebas_neueregular';
-  padding-top: 400px;
+  padding-top: 50px;
 }
 
 .nombre-seccion h1 {
   color: white;
   font-size: 4.2em;
   text-transform: uppercase;
-  padding-bottom: 400px;
+  padding-bottom: 50px;
 }
 
 .nombre-mobile-seccion {
@@ -14843,14 +14843,14 @@ body {
 
 .nombre-seccion-dos {
   font-family: 'bebas_neueregular';
-  padding-top: 200px;
+  padding-top: 10px;
 }
 
 .nombre-seccion-dos h1 {
   color: white;
   font-size: 4.2em;
   text-transform: uppercase;
-  padding-bottom: 200px;
+  padding-bottom: 10px;
 }
 
 .nombre-mobile-seccion-dos {
@@ -14866,7 +14866,7 @@ body {
 }
 
 .seccion {
-  padding-top: 130px;
+  padding-top: 10px;
 }
 
 .navbar-default {
@@ -14915,14 +14915,14 @@ body {
 }
 
 .background-class {
-  height: 1000px;
+  height: 550px;
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
 }
 
 .background-class-dos {
-  height: 1060px;
+  height: 630px;
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -15008,8 +15008,8 @@ body {
 }
 
 .nueva {
-  padding-top: 200px;
-  padding-bottom: 200px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .nueva h1 {

@@ -4,11 +4,11 @@ use App\Contacto;
 use Illuminate\Http\Request;
 
 Route::get('/', function () {
-    return view('page.aplicaciones');
+    return view('page.intentalo');
 });
 
-Route::get('/escucha', function () {
-    return view('page.intentalo');
+Route::get('/aplicaciones', function () {
+    return view('page.aplicaciones');
 });
 
 Route::get('/beneficios', function () {

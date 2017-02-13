@@ -9,7 +9,7 @@ class="background-musico background-class-dos"
         <div class="col-md-8 col-md-offset-2">
             <h1 class="text-center animated bounceInDown">
                 Vende tu música
-                <br><br>
+                <br>
                 <a href="/registro">
                     <button type="button" class="btn btn-primary btn-lg outline-sm center-block" style="font-size: 0.7em">INTÉNTALO YA</button>
                 </a>
@@ -25,9 +25,9 @@ class="background-musico background-class-dos"
         <div class="col-md-6 seccion-app">
             <div class="animated bounceInLeft">
                 <br><br>
-                <h3>Vende tu música</h3>
+                <h3>Sube tu música</h3>
                 <p>
-                    Vende y transmite tu música en más de 100 tiendas y plataformas digitales. Además de distribución de CD y vinilo.
+                    Sube y transmite tu música en LOUDNESS.MX la plataforma ONLINE de música independiente en México
                 </p>
             </div>
         </div>
@@ -48,9 +48,12 @@ class="background-musico background-class-dos"
         <div class="col-md-6 seccion-app">
             <div class="animated bounceInLeft">
                 <br><br>
-                <h3>Gana dinero con tu música</h3>
+                <h3>Gana nuevos escuchas y fans</h3>
                 <p>
-                    Necesitas que tu música trabaje para ti de varias maneras. CD Baby hace con que los artistas reciban de más fuentes de ingresos que cualquier otro distribuidor: ventas de streaming, descargas, CD + vinilo en todo el mundo, la monetización de YouTube, la concesión de licencias de sincronización, el cobro de regalías editorial, ventas directas al ventilador y herramientas promocionales, y mucho más. Además, CD Baby está constantemente trabajando en conseguir nuevas oportunidades de ingresos para los músicos independientes.
+                    Necesitas que tu música se mueva para ti de varias maneras.
+                </p>
+                <p>
+                    LOUDNESS hace que los artistas independientes encuentren nuevos fans para ti, somos un medio que conecta tu música con los nuevos escuchas alrededor del mundo. Además LOUDNESS trabaja constantemente para promover la música independiente y ayudarte a generar nuevas maneras de que tu música alcance a más público. Sube tu música y ofrece la mejor calidad de sonido a tus escuchas y saca el máximo valor a tu música. Tú decides si dejas descargar algún tema o simplemente que se pueda escuchar.
                 </p>
             </div>
         </div>
@@ -59,9 +62,9 @@ class="background-musico background-class-dos"
         <div class="col-md-6 seccion-app">
             <div>
                 <br><br><br>
-                <h3>Tu dinero siempre contigo</h3>
+                <h3>Costos</h3>
                 <p>
-                    Distribución de música en todo el mundo. Pagos semanales. Sin cuotas anuales.
+                    Sube tu disco por 30 dólares o una canción por 5 dólares. Distribución digital en todo el mundo
                 </p>
             </div>
         </div>
