@@ -14825,28 +14825,16 @@ body {
   padding-bottom: 50px;
 }
 
-.nombre-seccion {
-  font-family: 'bebas_neueregular';
-  padding-top: 10px;
-}
-
-.nombre-seccion h1 {
-  color: white;
-  font-size: 4.2em;
-  text-transform: uppercase;
-  padding-bottom: 10px;
-}
-
 .nombre-mobile-seccion {
   font-family: 'bebas_neueregular';
-  padding-top: 5px;
+  padding-top: 100px;
 }
 
 .nombre-mobile-seccion h1 {
   color: white;
   font-size: 3.2em;
   text-transform: uppercase;
-  padding-bottom: 5px;
+  padding-bottom: 400px;
 }
 
 .nombre-mobile-seccion .escucha {
@@ -14941,14 +14929,14 @@ body {
 }
 
 .background-mobile-class {
-  height: 400px;
+  height: 500px;
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
 }
 
 .background-mobile-dos-class {
-  height: 420px;
+  height: 520px;
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
