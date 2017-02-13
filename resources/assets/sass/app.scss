@@ -93,14 +93,25 @@ body {
   }
 }
 
+.nombre-seccion-registro {
+  font-family: 'bebas_neueregular';
+  padding-top: 0px;
+  h1 {
+    color: white;
+    font-size: 4.2em;
+    text-transform: uppercase;
+    padding-bottom: 0px;
+  }
+}
+
 .nombre-mobile-seccion {
   font-family: 'bebas_neueregular';
-  padding-top: 100px;
+  padding-top: 70px;
   h1 {
     color: white;
     font-size: 3.2em;
     text-transform: uppercase;
-    padding-bottom: 400px;
+    padding-bottom: 70px;
   }
   .escucha {
     font-size: 2.8em;

@@ -4,7 +4,7 @@
 class="background-registro background-class"
 @endsection
 @section('name-section')
-<div id="nombre-seccion" class="nombre-seccion">
+<div id="nombre-seccion" class="nombre-seccion-registro">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <h1 class="text-center animated bounceInDown">
