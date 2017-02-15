@@ -14,16 +14,14 @@ class="background-musica background-class"
 </div>
 @endsection
 @section('content')
-<div class="container">
+<div class="container-fluid explora">
     <div class="row">
         <div class="col-md-6 col-md-offset-3">
-            <br><br><br><br><br>
-            <h1 class="text-center subtitulo">Explora nueva música, checa temas y géneros</h1>
+            <br><br><br><br><br><br><br>
+            <h1 class="text-center subtitulo" style="color:white">Explora nueva música, checa temas y géneros</h1>
         </div>
     </div>
 </div>
-
-<img src="/img/discos.png" alt="" class="img-responsive">
 
 <div class="timing" id="intenta-div">
     <div class="row">
@@ -62,7 +60,9 @@ class="background-musica background-class"
     <div class="row">
         <div id="intentalo-cont-div" class="col-md-4 col-md-offset-4 intenta-cont">
             <a href="/registro">
+                <br><br><br><br><br><br><br>
                 <button type="button" class="btn btn-primary btn-lg outline center-block">INTÉNTALO YA</button>
+                <br><br><br><br><br><br><br>
             </a>
         </div>
     </div>

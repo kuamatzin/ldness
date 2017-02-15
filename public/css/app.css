@@ -14777,7 +14777,7 @@ body {
 }
 
 .before-footer {
-  height: 150px;
+  height: 50px;
 }
 
 .footer {
@@ -14989,6 +14989,7 @@ body {
 }
 
 .beneficios {
+  height: 800px;
   background-image: url("/img/beneficios.jpg");
   background-size: cover;
   background-position: center;
@@ -14996,6 +14997,16 @@ body {
   margin-top: 100px;
   padding-bottom: 150px;
   padding-top: 125px;
+}
+
+.explora {
+  margin-top: 150px;
+  margin-bottom: 150px;
+  height: 500px;
+  background-image: url("/img/discos.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .cuadro-beneficio {
@@ -15010,7 +15021,7 @@ body {
 
 .cuadro-beneficio p {
   color: white;
-  font-size: 1.6em;
+  font-size: 1.2em;
   font-weight: bold;
 }
 
@@ -15052,14 +15063,16 @@ body {
 }
 
 .menu {
+  height: 800px;
   margin-top: 200px;
   background-image: url("/img/menu.png");
   background-size: cover;
-  background-position: center;
+  background-position: center top;
   background-repeat: no-repeat;
 }
 
 .timing {
+  height: 800px;
   background-image: url("/img/timing.png");
   background-size: cover;
   background-position: center top;
@@ -15067,7 +15080,7 @@ body {
 }
 
 .timing-cont {
-  padding-top: 500px;
+  padding-top: 400px;
   padding-bottom: 250px;
 }
 
@@ -15080,7 +15093,7 @@ body {
 }
 
 .timgin-div {
-  margin-top: 200px;
+  margin-top: 70px;
   padding: 50px;
   border-style: solid;
   border-color: #86BD4A;
@@ -15091,7 +15104,7 @@ body {
 }
 
 .intenta {
-  background-image: url("/img/intenta.png");
+  background: url("/img/intenta.png");
   background-size: 100% 128%;
   background-position: center top;
   background-repeat: no-repeat;
@@ -15105,8 +15118,8 @@ body {
 }
 
 .intenta-cont {
-  padding-top: 550px;
-  padding-bottom: 300px;
+  padding-top: 250px;
+  padding-bottom: 100px;
 }
 
 .intenta-cont-mobile {
@@ -15115,7 +15128,7 @@ body {
 }
 
 .menu-cont {
-  padding-top: 450px;
+  padding-top: 300px;
   padding-bottom: 300px;
 }
 

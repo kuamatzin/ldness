@@ -15,15 +15,11 @@ class="background-beneficios background-class"
 @endsection
 @section('content')
 <div class="container">
+    <br><br><br><br><br>
     <div class="row">
-        <div class="col-md-6 col-md-offset-3 nueva">
-            <h1 class="text-center subtitulo">Una nueva forma de escuchar música</h1>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
+        <div class="col-md-6 col-md-offset-3">
             <p class="circle text-center">
+                <h1 class="text-center subtitulo">Una nueva forma de escuchar música</h1>
                 <span>
                     Loudness ha sido creado para ofrecer una amplia lista de artistas emergentes.
                     Descubre aquellas bandas de tu ciudad o de tus amigos.Selecciona la música de la banda de tus amigos o de la banda que escuchaste en el bar sin publicidad y disfruta de los géneros musicales con los que te identificas.
@@ -32,6 +28,7 @@ class="background-beneficios background-class"
         </div>
     </div>
 </div>
+<br><br>
 <div class="menu">
     <div class="row">
         <div class="col-md-4 col-md-offset-4 menu-cont">
