@@ -40,11 +40,9 @@ class="background-intentalo background-class"
             <div class="cuadro-beneficio">
                 <p>¿No hay internet? No te preocupes. Descarga tus favoritos y reprodúcelos cuando quieras incluso sin conexión</p>
             </div>
+            <br><br><br><br>
             <div class="cuadro-beneficio">
                 <p>Un servicio el cual te pondrá al tanto de nuevos artistas que se están uniendo todos los días y colabora para que más personas lo conozcan</p>
-            </div>
-            <div class="cuadro-beneficio">
-                <p>¿No hay internet? No te preocupes. Descarga tus favoritos y reprodúcelos cuando quieras incluso sin conexión</p>
             </div>
         </div>
         <div class="col-md-6"></div>
