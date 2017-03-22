@@ -19,13 +19,13 @@ class="background-intentalo background-class"
         <div class="col-md-6 col-md-offset-3 descubre">
             <div>
                 <p>
-                    LOUDNESS es una plataforma de transmisión de música online y offline para bandas emergentes, que no tienen un material registrado, masterizado o puesto a la venta, pero sí cuentan con el gran valor que es su música.
+                    LOUDNESS es una plataforma de transmisión de música online y offline de bandas emergentes, que cuentan con su material registrado y no tienen forma de compartirlo con los demás pero si cuentan con el gran valor que es su música
                 </p>
                 <p>
-                    LOUDNESS te ayuda a descubrir nuevas bandas con diversas propuestas de sonidos puros y honestos que aún no han encontrado un camino para conectarse con su público.
+                    LOUDNESS te ayuda a descubrir nuevas bandas con diversas propuestas de sonidos puros y honestos que aún no han encontrado un camino para conectarse con su público.
                 </p>
                 <p>
-                    El mayor objetivo de LOUDNESS es brindar ese acercamiento entre los productos musicáles y sus consumidores potenciales a través de una plataforma que induce una nueva experiencia al facilitar el contacto con artistas emergentes.
+                    El mayor objetivo de LOUDNESS es brindar ese acercamiento entre los productos musicales y sus consumidores potenciales a través de una plataforma que induce una nueva experiencia al facilitar el contacto con los artistas emergentes. 
                 </p>
                 <p>
                     LOUDNESS permite la transmisión masiva de arte a bajo costo.

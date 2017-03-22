@@ -20,9 +20,9 @@ class="background-beneficios background-class"
         <div class="col-md-6 col-md-offset-3">
             <p class="circle text-center">
                 <h1 class="text-center subtitulo">Una nueva forma de escuchar música</h1>
-                <span>
-                    Loudness ha sido creado para ofrecer una amplia lista de artistas emergentes.
-                    Descubre aquellas bandas de tu ciudad o de tus amigos.Selecciona la música de la banda de tus amigos o de la banda que escuchaste en el bar sin publicidad y disfruta de los géneros musicales con los que te identificas.
+                <br><br>
+                <span style="font-size: 1.5em">
+                    LOUDNESS ha sido creado para ofrecer una amplia lista de artistas emergentes. Descubre aquellas bandas de tu ciudad o de tus amigos. Selecciona la música de la banda de tus amigos o de la banda que escuchaste en el bar sin publicidad y disfruta de los géneros musicales con los que te identifica.
                 </span>
             </p>
         </div>
@@ -44,15 +44,15 @@ class="background-beneficios background-class"
                 <ul>
                     <li class="lista">Lanzamientos</li>
                     <p>
-                        Ayuda a tus amigos a dar a conocer sus nuevos materiales discográficos o sus nuevas canciones.
+                        Ayuda a tus amigos a dar a conocer sus nuevos materiales discográficos o nuevas canciones.
                     </p>
                     <li class="lista">Con o sin conexión</li>
                     <p>
-                        Descarga tu selección musical y escúchala cuando no tengas conexión.
+                        Descarga tu selección musical y escúchala cuando no tengas conexión.
                     </p>
                     <li class="lista">Comparte tu música</li>
                     <p>
-                        Comparte con tus amigos esos temas que suelen cantar en los conciertos y bares o sim- plemente comparte en tus redes sociales.
+                        Comparte con tus amigos esos temas que suelen cantar en los conciertos y bares o simplemente comparte en tus redes sociales.
                     </p>
                     <li class="lista">Tu biblioteca musical</li>
                     <p>

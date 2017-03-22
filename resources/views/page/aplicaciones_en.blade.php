@@ -5,7 +5,7 @@ class="background-aplicaciones background-class"
 @section('name-section')
 <div id="nombre-seccion" class="nombre-seccion">
     <h1 class="text-center animated bounceInDown">
-        Aplicaciones y Dispositivos            
+        APPLICATIONS AND DEVICES
     </h1>
 </div>
 @endsection
@@ -15,12 +15,12 @@ class="background-aplicaciones background-class"
         <div class="col-md-6 seccion-app">
             <div class="animated bounceInLeft">
                 <br><br>
-                <h3>En tu celular</h3>
+                <h3>ON YOUR CELLPHONe</h3>
                 <p>
-                    Accede a miles de canciones de excelente calidad en todas partes.
+                    Access thousands of great quality songs everywhere.
                 </p>
                 <p>
-                    Descarga la aplicación móvil de Loudness y disfruta de la mejor música desde tu telé- fono iOS, Android o Windows en cualquier lugar que te encuentres. Explora, busca y descubre la mejor música de acuerdo a tus gustos musicales, su interfaz intuitiva te ayudará a saber que conciertos están cerca de ti y descubrirás más sobre el artis- ta que estás escuchando.
+                    Access Loudness responsive web design and enjoy the best music from your iOS, Android or Windows phone anywhere you are. Explore, search and discover the best music according to your musical tastes, its intuitive interface will help you to know which concerts are close to you and you will discover more about the artist you are listening to.
                 </p>
             </div>
         </div>
@@ -41,12 +41,12 @@ class="background-aplicaciones background-class"
         <div class="col-md-6 seccion-app">
             <div class="animated bounceInLeft">
                 <br><br>
-                <h3>En tu tablet</h3>
+                <h3>IN YOUR TABLET</h3>
                 <p>
-                    Toda tu selección de tu música en tu iPad, Android o Windows en todas partes.
+                    All your selection of your music on your iPad, Android or Windows in all parts.
                 </p>
                 <p>
-                    La aplicación para tablet te ofrece una ex- periencia sencilla e intuitiva para descubrir música y artistas de manera fácil.
+                    The web response design for the tablet offers a simple and intuitive experience to discover music and artists in an easy way.
                 </p>
             </div>
         </div>
@@ -55,9 +55,9 @@ class="background-aplicaciones background-class"
         <div class="col-md-6 seccion-app">
             <div>
                 <br><br><br>
-                <h3>En tu ordenador</h3>
+                <h3>ON YOUR COMPUTER</h3>
                 <p>
-                    En tu casa u oficina, accede al navegador de tu PC y disfruta de tu selección de musical.
+                    In your home or office, access your PC's browser and enjoy your musical selection.
                 </p>
             </div>
         </div>

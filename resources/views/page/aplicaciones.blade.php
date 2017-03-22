@@ -20,7 +20,7 @@ class="background-aplicaciones background-class"
                     Accede a miles de canciones de excelente calidad en todas partes.
                 </p>
                 <p>
-                    Descarga la aplicación móvil de Loudness y disfruta de la mejor música desde tu telé- fono iOS, Android o Windows en cualquier lugar que te encuentres. Explora, busca y descubre la mejor música de acuerdo a tus gustos musicales, su interfaz intuitiva te ayudará a saber que conciertos están cerca de ti y descubrirás más sobre el artis- ta que estás escuchando.
+                    Accede al sitio web responsivo de Loudness y disfruta de la mejor música desde tu teléfono iOS, Android o Windows en cualquier lugar que te encuentres. Explora, busca y descubre la mejor música de acuerdo a tus gustos musicales, su interfaz intuitiva te ayudará a saber que conciertos están cerca de ti y descubrirás más sobre el artista que estas escuchando.
                 </p>
             </div>
         </div>
@@ -46,7 +46,7 @@ class="background-aplicaciones background-class"
                     Toda tu selección de tu música en tu iPad, Android o Windows en todas partes.
                 </p>
                 <p>
-                    La aplicación para tablet te ofrece una ex- periencia sencilla e intuitiva para descubrir música y artistas de manera fácil.
+                    El diseño web responsivo para tu Tablet ofrece una experiencia sencilla e intuitiva para descubrir la música y los artistas de manera fácil.
                 </p>
             </div>
         </div>
