@@ -20,7 +20,8 @@ class="background-beneficios background-class"
         <div class="col-md-6 col-md-offset-3">
             <p class="circle text-center">
                 <h1 class="text-center subtitulo">A new way to listen and to enjoy different kinds of music. </h1>
-                <span>
+                <br><br>
+                <span style="font-size: 1.5em">
                     LOUDNESS has been created to offer a wide variety of options to our listeners so that they can discover new music from their local scenes and promote new and upcoming artists. Check out your friends´music or find that song that you heard at your local bar in no time. 
                 </span>
             </p>
