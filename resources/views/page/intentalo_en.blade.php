@@ -19,7 +19,7 @@ class="background-intentalo background-class"
         <div class="col-md-6 col-md-offset-3 descubre">
             <div>
                 <p>
-                    LOUDNESS is a an online music streaming platform for emerging local bands who have their music copyrighted but dont have the ability to share it with the rest of the world and are eager to do it. LOUDNESS takes care of that. 
+                    LOUDNESS is an online music streaming platform for emerging local bands who have their music copyrighted but dont have the ability to share it with the rest of the world and are eager to do it. LOUDNESS takes care of that. 
                 </p>
                 <p>
                     LOUDNESS  helps you discover new bands with pure sounds  and new amazing proposals.
