@@ -22,7 +22,7 @@ class="background-beneficios background-class"
                 <h1 class="text-center subtitulo">Una nueva forma de escuchar música</h1>
                 <br><br>
                 <span style="font-size: 1.5em">
-                    LOUDNESS ha sido creado para ofrecer una amplia lista de artistas emergentes. Descubre aquellas bandas de tu ciudad o de tus amigos. Selecciona la música de la banda de tus amigos o de la banda que escuchaste en el bar sin publicidad y disfruta de los géneros musicales con los que te identifica.
+                    LOUDNESS ha sido creado para ofrecer una amplia lista de artistas emergentes. Descubre aquellas bandas de tu ciudad o de tus amigos. Selecciona la música de la banda de tus amigos o de la banda que escuchaste en el bar sin publicidad y disfruta de los géneros musicales con los que te identificas.
                 </span>
             </p>
         </div>

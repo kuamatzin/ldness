@@ -43,7 +43,7 @@ class="background-intentalo background-class"
             </div>
             <br><br><br><br>
             <div class="cuadro-beneficio">
-                <p>Un servicio el cual te pondrá al tanto de nuevos artistas que se están uniendo todos los días y colabora para que más personas lo conozcan</p>
+                <p>A service that will put you both new artists that are uniting every day and collaborates so that more people know</p>
             </div>
         </div>
         <div class="col-md-6"></div>

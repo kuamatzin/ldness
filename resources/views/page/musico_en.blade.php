@@ -50,7 +50,7 @@ class="background-musico background-class-dos"
                 <br><br>
                 <h3>Create new fans</h3>
                 <p>
-                    Necesitas que tu música se mueva para ti de varias maneras.
+                    You need your music to move for you in several ways.
                 </p>
                 <p>
                     LOUDNESS allows new artists to create a new fan base in no time. Artists worry about their music, we do the rest. LOUDNESS will constantly be promoting new realease and help artists have a wider impact to different poeple all around the world. With the best sound quality you decide weather people can download your music or just available for playback. 

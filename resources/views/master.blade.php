@@ -9,6 +9,8 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
         <!-- Styles -->
         <link href="/css/app.css" rel="stylesheet">
+        <!-- Flagstrap -->
+        <link href="http://blazeworx.com/flags.css" rel="stylesheet">
     </head>
     <body>
         <div id="background" @yield('background-class')>
@@ -34,6 +36,13 @@
                             <li><a href="/musica">Música</a></li>
                             <li><a href="/musico">¿Eres músico?</a></li>
                             <li class="active"><a href="/aplicaciones">Aplicaciones y Dispositivos</a></li>
+                            <li>
+                                <form class="form-horizontal">
+                                    <div class="form-group">
+                                        <div id="flagstrap3"></div>
+                                    </div>
+                                </form>
+                            </li>
                         </ul>
                     </div>
                 </nav>
@@ -83,10 +92,41 @@
             </div>
             
             <script src="/js/app.js"></script>
+            <script src="http://blazeworx.com/jquery.flagstrap.min.js"></script>
             <script>
                 $(document).ready(function(){
 
                     $(function(){
+                        console.log($('*[id^="flagstrap-drop-down"]'));
+                        $('#flagstrap3').flagStrap({
+                            countries: {
+                                "MX": "Español",
+                                "US": "Ingles"
+                            },
+                            inputName: 'country',
+                            buttonSize: "btn-lg",
+                            buttonType: "btn-primary languaje",
+                            labelMargin: "20px",
+                            scrollable: false,
+                            scrollableHeight: "350px",
+                            onSelect: function(value, element) {
+                                for (var i = element.options.length - 1; i >= 0; i--) {
+                                    var option = element.options[i];
+                                    if (option.selected && option.value) {
+                                        if (option.value == 'US') {
+                                            window.location.href= "http://loudness.dev/en";
+                                        }
+                                        else {
+                                            window.location.href = "http://loudness.dev/";
+                                        }  
+                                    }
+                                }
+                            },
+                            placeholder: {
+                                value: "",
+                                text: "Lenguaje"
+                            }
+                        });
                      
                         $(document).on( 'scroll', function(){
                      
@@ -109,12 +149,14 @@
                     }
 
                     });
-                if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-                    //$('#logo_loudness').hide();
-                    $('#background').removeClass( "background-class").addClass('background-mobile-class');
-                    $('#nombre-seccion').removeClass( "nombre-seccion").addClass('nombre-mobile-seccion');
-                    $('#logo-footer').width(150)
-                }
+                    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+                        //$('#logo_loudness').hide();
+                        $('#background').removeClass( "background-class").addClass('background-mobile-class');
+                        $('#nombre-seccion').removeClass( "nombre-seccion").addClass('nombre-mobile-seccion');
+                        $('#logo-footer').width(150)
+                    }
+                    
+                    console.log(button)
             </script>
             @yield('scripts')
         </body>
