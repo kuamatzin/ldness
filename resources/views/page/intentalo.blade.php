@@ -7,7 +7,7 @@ class="background-intentalo background-class"
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <h1 class="text-center animated bounceInDown escucha">
-                Escucha tu música, sin fronteras, donde quieras, cuando quieras
+                Escucha tu música, sin fronteras, donde quieras, cuando quieras.
             </h1>
         </div>
     </div>
