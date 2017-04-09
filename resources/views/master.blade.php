@@ -114,10 +114,10 @@
                                     var option = element.options[i];
                                     if (option.selected && option.value) {
                                         if (option.value == 'US') {
-                                            window.location.href= "http://loudness.dev/en";
+                                            window.location.href= "http://loudness.mx/en";
                                         }
                                         else {
-                                            window.location.href = "http://loudness.dev/";
+                                            window.location.href = "http://loudness.mx/";
                                         }  
                                     }
                                 }
