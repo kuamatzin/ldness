@@ -39,7 +39,7 @@ class="background-musica background-class"
             La aceleración, desaceleración o detención tú decides qué timing ponerle a tu vida.
         </p> 
         <p>
-            Esta característica crea tu propio radio en base a lo que has escuchado. No importa qué tan rápido o lento vivas siempre tendrás tu propio timing. Muestra características de las personas, una canción que pueda cambiar el significado de las acciones, dar tiempo a que el espectador comprenda la situación, hacer que el espectador piense algo y luego cambiarlo con otra canción.
+            Esta característica crea tu propio radio con base a lo que has escuchado. No importa qué tan rápido o lento vivas siempre tendrás tu propio timing. Muestra características de las personas, una canción que pueda cambiar el significado de las acciones, dar tiempo a que el espectador comprenda la situación, hacer que el espectador piense algo y luego cambiarlo con otra canción.
         </p>
         <h3>¿Cómo funciona?</h3>
         <p>
